@@ -1,0 +1,473 @@
+[
+  {
+    "definitions": [
+      "come"
+    ],
+    "dialects": {
+      "bịa": {
+        "variations": [],
+        "dialects": [
+          "Owere",
+          "Nsụka"
+          
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/5f90c35e49f7e863e92b7264-63fa910a7fbca5158b22cf04.mp3",
+        "_id": "63fa910b7fbca5634922cf0d",
+        "word": "bịa"
+      }
+    },
+    "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/5f90c35e49f7e863e92b7264.mp3",
+    "tenses": {
+      "infinitive": "ịbịā",
+      "imperative": "bị̀a",
+      "simplePast": "bịàrà",
+      "presentPassive": "",
+      "simplePresent": "nà-àbịa",
+      "presentContinuous": "nà-àbịa",
+      "future": "gà-àbịa"
+    },
+    "attributes": {
+      "isStandardIgbo": true,
+      "isAccented": true,
+      "isSlang": false,
+      "isConstructedTerm": false,
+      "isBorrowedTerm": false,
+      "isStem": true,
+      "isCommon": false
+    },
+    "relatedTerms": [
+      "5f90c35e49f7e863e92b7162",
+      "5f90c35f49f7e863e92b8355",
+      "5f90c35e49f7e863e92b7ba0",
+      "5f90c35e49f7e863e92b772b",
+      "63c55949cea766de0fdc8d7c",
+      "6430c9e662d0ff385fe82321",
+      "5f90c35e49f7e863e92b7707"
+    ],
+    "word": "bịa",
+    "examples": [
+      {
+        "igbo": "Ha ga-abịa echi.",
+        "english": "They will come tomorrow.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/63d996ca5e715d22352d2488.mp3",
+            "speaker": ""
+          }
+        ]
+      },
+      {
+        "igbo": "Gọvanọ anyị ga-abịa njem nleta.",
+        "english": "Our Governor will come for a courtesy visit.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/63d9c5f4bf3629e56f3dcc1a.mp3",
+            "speaker": ""
+          }
+        ]
+      },
+      {
+        "igbo": "Nne m bịara ọmugwọ.",
+        "english": "My mother came for ọmụgwọ.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/63d9c5f4bf36296f853dcc1b.mp3",
+            "speaker": ""
+          }
+        ]
+      },
+      {
+        "igbo": "Ana m abịa.",
+        "english": "I am coming.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/63fa90f27fbca571d122cea8.mp3",
+            "speaker": ""
+          }
+        ]
+      },
+      {
+        "igbo": "Onye bịara be gị?",
+        "english": "Who came to your house?",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/63fa90f27fbca55cd422cead.mp3",
+            "speaker": ""
+          }
+        ]
+      },
+      {
+        "igbo": "Bịa ebe a.",
+        "english": "Come here.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/63fa90f27fbca5b19622cea9.mp3",
+            "speaker": ""
+          }
+        ]
+      },
+      {
+        "igbo": "Ọ na-abịa akwụkwọ kwa ụbọchị̣",
+        "english": "She comes to school daily.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/63d9c5f4bf36296c913dcc1c.mp3",
+            "speaker": ""
+          }
+        ]
+      }
+    ],
+    "id": "5f90c35e49f7e863e92b7264",
+    "wordClass": "AV",
+    "nsibidi": "宇"
+  },
+  {
+    "definitions": [
+      "compress"
+    ],
+    "dialects": {
+      "-bìà": {
+        "dialects": [
+          "Nsa"
+        ],
+        "variations": [],
+        "pronunciation": "",
+        "word": "-bìà",
+        "_id": "6369c55f2e42a5a84db508f4"
+      }
+    },
+    "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/5f90c35e49f7e863e92b7269.webm",
+    "tenses": {
+      "infinitive": "ibị̀à",
+      "imperative": "bị̀àa",
+      "simplePast": "bị̀àra",
+      "presentPassive": "",
+      "simplePresent": "na-ebị̀à",
+      "presentContinuous": "na-ebị̀à",
+      "future": "ga-ebị̀à"
+    },
+    "attributes": {
+      "isStandardIgbo": true,
+      "isAccented": true,
+      "isSlang": false,
+      "isConstructedTerm": false,
+      "isBorrowedTerm": false,
+      "isStem": false,
+      "isCommon": false
+    },
+    "word": "bị̀à",
+    "examples": [
+      {
+        "igbo": "Ọ bịara akwa ndị ahụ aka ka ha baa n'igbe ọ chọrọ ibu mee njem.",
+        "english": "She compressed those clothes so that they will enter the box she wants to travel with.",
+        "pronunciations": []
+      }
+    ],
+    "id": "5f90c35e49f7e863e92b7269",
+    "wordClass": "AV",
+    "nsibidi": "㢪"
+  },
+  {
+    "attributes": {
+      "isStandardIgbo": true,
+      "isAccented": false,
+      "isSlang": false,
+      "isConstructedTerm": false,
+      "isBorrowedTerm": false,
+      "isStem": true,
+      "isCommon": false
+    },
+    "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a.mp3",
+    "relatedTerms": [
+      "5f90c35e49f7e863e92b7bdb"
+    ],
+    "definitions": [
+      "press down; reduce; compress"
+    ],
+    "dialects": {
+      "pịdà": {
+        "variations": [],
+        "dialects": [
+          "Ọnịcha"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a9fbd749c0b.mp3",
+        "_id": "646e94c705611a795e749c2c",
+        "word": "pịdà"
+      },
+      "bịdà": {
+        "variations": [],
+        "dialects": [
+          "Achala"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a286c749c0c.mp3",
+        "_id": "646e94c705611ad1b8749c2d",
+        "word": "bịdà"
+      },
+      "pịmà": {
+        "variations": [],
+        "dialects": [
+          "Abịrịba"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a7e55749c0d.mp3",
+        "_id": "646e94c705611a40c4749c2e",
+        "word": "pịmà"
+      },
+      "bị̀à": {
+        "variations": [],
+        "dialects": [
+          "Ngwa"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611ae541749c0e.mp3",
+        "_id": "646e94c705611a7671749c2f",
+        "word": "bị̀à"
+      },
+      "pịbà": {
+        "variations": [],
+        "dialects": [
+          "Ụmụahịa"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a4b83749c0f.mp3",
+        "_id": "646e94c705611a4976749c30",
+        "word": "pịbà"
+      },
+      "bị̀mà": {
+        "variations": [],
+        "dialects": [
+          "Owere"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a7551749c10.mp3",
+        "_id": "646e94c705611ac7af749c31",
+        "word": "bị̀mà"
+      },
+      "bịadà": {
+        "variations": [],
+        "dialects": [
+          "Ngwa"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611aba49749c11.mp3",
+        "_id": "646e94c705611a18bf749c32",
+        "word": "bịadà"
+      },
+      "pị̀kọ": {
+        "variations": [],
+        "dialects": [
+          "Ngwa"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611adf8b749c12.mp3",
+        "_id": "646e94c705611a1949749c33",
+        "word": "pị̀kọ"
+      },
+      "bịamì": {
+        "variations": [],
+        "dialects": [
+          "Mkpọọ"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a4386749c13.mp3",
+        "_id": "646e94c705611ac5d4749c34",
+        "word": "bịamì"
+      },
+      "kwadà": {
+        "variations": [],
+        "dialects": [
+          "Ajalị"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a6005749c14.mp3",
+        "_id": "646e94c705611a4a74749c35",
+        "word": "kwadà"
+      },
+      "bịàkpu": {
+        "variations": [],
+        "dialects": [
+          "Anịọcha"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a5dad749c15.mp3",
+        "_id": "646e94c705611a50f9749c36",
+        "word": "bịàkpu"
+      },
+      "pị̀kpu": {
+        "variations": [],
+        "dialects": [
+          "Amaifeke"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a083b749c16.mp3",
+        "_id": "646e94c705611a3bd2749c37",
+        "word": "pị̀kpu"
+      },
+      "pịmi": {
+        "variations": [],
+        "dialects": [
+          "Ọkụzụ"
+        ],
+        "pronunciation": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc8f62d0ffac26e8242a-646e94c605611a44f2749c17.mp3",
+        "_id": "646e94c705611aeab6749c38",
+        "word": "pịmi"
+      }
+    },
+    "tenses": {
+      "infinitive": "ib̄dà",
+      "imperative": "bidàa",
+      "simplePast": "bidàrà",
+      "presentPassive": "",
+      "simplePresent": "nà-èbidà",
+      "presentContinuous": "nà-èbidà",
+      "future": "gà-èbidà"
+    },
+    "word": "bidà",
+    "examples": [
+      {
+        "igbo": "Ada na-ebida ya.",
+        "english": "Ada is compressing it.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430cc7962d0ffc111e823fc.mp3",
+            "speaker": ""
+          }
+        ],
+        "nsibidiCharacters": [],
+        "type": "default"
+      },
+      {
+        "igbo": "O bidara garrị ahụ",
+        "english": "He compressed the garri.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430a8dd21ef110f46e9d602.mp3",
+            "speaker": ""
+          }
+        ],
+        "nsibidiCharacters": [],
+        "type": "default"
+      },
+      {
+        "igbo": "Ndụbuịsi ga-ebida ngwaahịa a ka ọ baa n'akpa a.",
+        "english": "Ndubuisi will compress these goods so that it can enter this bag.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430a8dd21ef1148f7e9d600.mp3",
+            "speaker": ""
+          }
+        ],
+        "nsibidiCharacters": [],
+        "type": "default"
+      },
+      {
+        "igbo": "Bidaa akwa ahụ nke ọma.",
+        "english": "Compress that clothe well.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430a8dd21ef111a19e9d601.mp3",
+            "speaker": ""
+          }
+        ],
+        "nsibidiCharacters": [],
+        "type": "default"
+      },
+      {
+        "igbo": "Ọ chọrọ ibida achịcha ahụ koro eko.",
+        "english": "He wants to compress that bread.",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/6430a8dd21ef1128f6e9d5ff.mp3",
+            "speaker": ""
+          }
+        ],
+        "nsibidiCharacters": [],
+        "type": "default"
+      },
+      {
+        "igbo": "Bidaa ya nke ọma.",
+        "english": "Reduce it very well.",
+        "nsibidiCharacters": [],
+        "type": "default",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/646e934705611a84d5749a0b-7899bd9a-c163-452f-be7a-1b436a7c0d1e.mp3",
+            "speaker": "iDVmFVoGxBd00BUIpC9Gsq8IyMi2",
+            "_id": "646e94b305611ab52b749bd6"
+          }
+        ]
+      },
+      {
+        "igbo": "Ọ chọghị ibida ya.",
+        "english": "She does not want to compress it.",
+        "nsibidiCharacters": [],
+        "type": "default",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/646e934705611a652e749a0f-a1ecd96d-4578-44b4-a06b-87208cd2d23e.mp3",
+            "speaker": "0pQ9MZS7UUYHQGj53smGwUNpAxJ2",
+            "_id": "646e94b305611a0b6c749bda"
+          }
+        ]
+      },
+      {
+        "igbo": "Onye ga-ebida ya?",
+        "english": "Who will press it down.",
+        "nsibidiCharacters": [],
+        "type": "default",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/646e934705611a3279749a13-65c523bf-3df7-4fec-9a67-ababaafd8863.mp3",
+            "speaker": "0pQ9MZS7UUYHQGj53smGwUNpAxJ2",
+            "_id": "646e94b305611a7b38749bd8"
+          }
+        ]
+      },
+      {
+        "igbo": "Eze bidara ihe ọ kwanyere n'akpa.",
+        "english": "Eze reduced what he packed in the bag.",
+        "nsibidiCharacters": [],
+        "type": "default",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/646e934705611a776e749a09-364aea65-762c-4488-b4ea-3b3527c5e9e7.mp3",
+            "speaker": "iDVmFVoGxBd00BUIpC9Gsq8IyMi2",
+            "_id": "646e94b305611a6589749bd5"
+          }
+        ]
+      },
+      {
+        "igbo": "Gaa, bidaa ya.",
+        "english": "Go and compress it.",
+        "nsibidiCharacters": [],
+        "type": "default",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/646e934705611a4a2b749a07-41061613-52f8-4c0a-9aa7-6e344ba5500a.mp3",
+            "speaker": "0pQ9MZS7UUYHQGj53smGwUNpAxJ2",
+            "_id": "646e94b305611a4f66749bd7"
+          }
+        ]
+      },
+      {
+        "igbo": "Bida akwa ndịa.",
+        "english": "Press these clothes down.",
+        "nsibidiCharacters": [],
+        "type": "default",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/646e934705611afc4c749a11-db051b22-88d9-4056-9b19-668af84a66e3.mp3",
+            "speaker": "iDVmFVoGxBd00BUIpC9Gsq8IyMi2",
+            "_id": "646e94b305611a9739749bd9"
+          }
+        ]
+      },
+      {
+        "igbo": "Achọrọ m ibida edemede a.",
+        "english": "I want to compress this writeup.",
+        "nsibidiCharacters": [],
+        "type": "default",
+        "pronunciations": [
+          {
+            "audio": "https://igbo-api.s3.us-east-2.amazonaws.com/audio-pronunciations/646e934705611a1787749a0d-524d363e-2032-4561-8b4d-d7af52dd8d70.mp3",
+            "speaker": "iDVmFVoGxBd00BUIpC9Gsq8IyMi2",
+            "_id": "646e94b205611a7011749bd4"
+          }
+        ]
+      }
+    ],
+    "id": "6430cc8f62d0ffac26e8242a",
+    "wordClass": "AV",
+    "nsibidi": ""
+  }
+]
